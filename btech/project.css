@@ -18,4 +18,12 @@ ul li{
 }ul li:hover{
     background-color: blueviolet;
     border-bottom: 2px;
+    
+}
+.icons{
+    display: flex;
+    gap: 5rem;
+    border-radius: 2rem;
+    align-items: center;
+
 }
